@@ -1,3 +1,16 @@
+# organo
+
+## ★ **Criando um organograma** ★
+
+### Pré visualizção do projeto:
+
+![Sem título](https://user-images.githubusercontent.com/79340835/201116107-24bd7dcc-3654-4ab1-867c-10b0487ec4f1.png)
+
+### Explicação:
+
+Nesse projeto foi criado um organo interativo onde podemos adicionar os dados como: nome, cargo, imagem (podendo ser um link do git + png), e o time que pertence. Criando abaixo uma representação dos times com seus respectivos dados e informações, desenvolvido em React.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
